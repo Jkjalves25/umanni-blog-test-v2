@@ -1,0 +1,9 @@
+one:
+  content: Primeiro comentário
+  post: one
+  user: one
+
+two:
+  content: Segundo comentário
+  post: two
+  user: two
