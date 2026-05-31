@@ -29,7 +29,7 @@ class CommentsControllerTest < ActionDispatch::IntegrationTest
     end
 
 
-    assert_redirected_to post_url(Comment.last.post) 
+    assert_redirected_to post_url(Comment.last.post)
    end
 
   test "should show comment" do
